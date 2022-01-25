@@ -6,3 +6,6 @@ Export avec xlsxwriter en fichier Excel
 Requirements : 
 module Pandas
 module xlsxwriter
+
+Avant d'exécuter : 
+- changer filepath des exports en fonction de l'archi
