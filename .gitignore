@@ -1,0 +1,7 @@
+# FOLDER
+*.xlsx
+
+# MISC
+.idea
+DS_STORE
+
