@@ -5,6 +5,7 @@
 Installer les packages nécessaires à l'utilisation du script:
 - pandas
 - re
+- openpyxl (Dépendance optionel devenue nécessaire)
 
 ## Pré-requis
 
